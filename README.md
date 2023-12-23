@@ -34,6 +34,7 @@
 
 ### GITHUB STATS
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vindorable&hide_langs_below=1&theme=swift&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vindorable&show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&theme=swift&layout=compact" />
 
 ---
 
