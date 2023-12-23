@@ -32,6 +32,9 @@
 ![Static Badge](https://img.shields.io/badge/-C%20SHARP-000?logo=csharp&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/-REACT.JS-000?logo=react&logoColor=%23FFFFFF)
 
+### GITHUB STATS
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vindorable&hide_langs_below=1&theme=swift&layout=compact" />
+
 ---
 
 <p align="center">
@@ -42,6 +45,8 @@ Take a look at my repositories and let's get in touch!
   <!-- https://yojkim.medium.com/apply-dark-mode-to-github-markdown-images-b87de6224e18 -->
   <a href= "https://www.linkedin.com/in/jay-raj-97508742/#gh-light-mode-only"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
   <a href= "https://www.linkedin.com/in/jay-raj-97508742/#gh-dark-mode-only"><img src="https://img.icons8.com/material-outlined/30/ffffff/linkedin.png"/></a>
+  <a href= "https://vindorable.github.io/#gh-light-mode-only"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+  <a href= "https://vindorable.github.io/#gh-dark-mode-only"><img src="https://img.icons8.com/material-outlined/27/ffffff/geography.png"/></a>
 </p>
 
 <p align="center">
