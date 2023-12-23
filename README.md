@@ -39,6 +39,12 @@ Take a look at my repositories and let's get in touch!
 </p>
 
 <p align="center">
+  <!-- https://yojkim.medium.com/apply-dark-mode-to-github-markdown-images-b87de6224e18 -->
+  <a href= "https://www.linkedin.com/in/jay-raj-97508742/#gh-light-mode-only"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+  <a href= "https://www.linkedin.com/in/jay-raj-97508742/#gh-dark-mode-only"><img src="https://img.icons8.com/material-outlined/30/ffffff/linkedin.png"/></a>
+</p>
+
+<p align="center">
 <!--
   https://visitor-badge.laobi.icu/
   To get page id:
