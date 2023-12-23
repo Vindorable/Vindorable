@@ -4,11 +4,16 @@
 🌱 Currently I'm learning frontend and backend to become a Full Stack Developer. <br />
 🌐 Visit my website I built and hosted on GitHub Pages: [vindorable.github.io](https://vindorable.github.io/)
 
+<details>
+  <summary>👇 Click to view more information about my games 🎮🕹️👾</summary>
+
 | Game Name | IDE | Platforms |Links 
 |:------------- |:-------------:|:-------------:|:-------------:|
 | Frankrit Eat Meat | Gamemaker Studio | AND | [bit.ly/FEM](https://bit.ly/resumeFEM) |
 | Shark-A-Boom | Unity | AND | [bit.ly/SAB](https://bit.ly/resumeSAB) |
 | Dino with a Gun | Unity | AND | [bit.ly/DWAG](https://bit.ly/resumeDWAG) |
+
+</details>
 
 ---
 
