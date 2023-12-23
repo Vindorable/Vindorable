@@ -37,4 +37,17 @@
 Take a look at my repositories and let's get in touch!
 </p>
 
+<p align="center">
+<!--
+  https://visitor-badge.laobi.icu/
+  To get page id:
+    > https://stackoverflow.com/a/17309026
+    > https://api.github.com/users/Vindorable
+  To get repo id:
+    > https://stackoverflow.com/a/72834015
+    > https://docs.github.com/en/graphql/overview/explorer
+-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=49219552.R_kgDOK824vQ" alt="visitor badge"/>
+</p>
+
 ---
