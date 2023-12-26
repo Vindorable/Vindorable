@@ -2,7 +2,7 @@
 
 🧐 I'm a solo indie game developer and have published 3 games in the Google Play Store as passion projects in my free time. <br />
 🌱 Currently I'm learning frontend and backend to become a Full Stack Developer. <br />
-🌐 Visit my website I built and hosted on GitHub Pages to see more of my works: [vindorable.github.io](https://vindorable.github.io/)
+🌐 Visit my website I built and hosted on GitHub Pages to see more of my works: [vindorable.github.io](https://vindorable.github.io/) <i>(Note: My GitHub Page is still being built. You may visit my Squarespace website for the time being at [jayondope.com](https://www.jayondope.com/). Eventually, I will move to GitHub Pages and stop my Squarespace subscription.</i>
 
 <details>
   <summary>👇 Click to view more information about my games 🎮🕹️👾</summary>
@@ -46,8 +46,8 @@ Take a look at my repositories and let's get in touch!
   <!-- https://yojkim.medium.com/apply-dark-mode-to-github-markdown-images-b87de6224e18 -->
   <a href= "https://www.linkedin.com/in/jay-raj-97508742/#gh-light-mode-only"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
   <a href= "https://www.linkedin.com/in/jay-raj-97508742/#gh-dark-mode-only"><img src="https://img.icons8.com/material-outlined/30/ffffff/linkedin.png"/></a>
-  <a href= "https://vindorable.github.io/#gh-light-mode-only"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-  <a href= "https://vindorable.github.io/#gh-dark-mode-only"><img src="https://img.icons8.com/material-outlined/27/ffffff/geography.png"/></a>
+  <a href= "https://www.jayondope.com/#gh-light-mode-only"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+  <a href= "https://www.jayondope.com/#gh-dark-mode-only"><img src="https://img.icons8.com/material-outlined/27/ffffff/geography.png"/></a>
 </p>
 
 <p align="center">
