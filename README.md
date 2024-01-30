@@ -31,6 +31,7 @@
 ![Static Badge](https://img.shields.io/badge/-UNITY-000?logo=unity&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/-C%20SHARP-000?logo=csharp&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/-REACT.JS-000?logo=react&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/-PYTHON-000?logo=python&logoColor=%23FFFFFF)
 
 ### GITHUB STATS
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vindorable&hide_langs_below=1&theme=swift&layout=compact" />
